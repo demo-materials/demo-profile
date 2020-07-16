@@ -44,7 +44,7 @@ body
 
 .user-box p
 {
-    color: #fff;
+    color: red;
     margin: -40px;
 }
 
@@ -195,7 +195,7 @@ body
 .timeline:before
 {
     content: '';
-    background-color: black;
+    background-color:skyblue;
     display: inline-block;
     position: absolute;
     left: 30px;
